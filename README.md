@@ -7,14 +7,6 @@ A modern and responsive frontend website created to spread awareness about **Wat
 
 ---
 
-## 📸 Preview
-
-![Home Page](preview.png)
-
-> *(Replace `preview.png` with a screenshot of your homepage.)*
-
----
-
 ## 🌟 Features
 
 - 🌊 Beautiful Landing Page
